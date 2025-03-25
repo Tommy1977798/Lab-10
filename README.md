@@ -1,7 +1,3 @@
-Sure! Here's a **concise and clean `README.md`** for your Laravel CRUD project (Lab 10):
-
----
-
 ### 📄 `README.md`
 ```md
 # 🚀 Laravel Lab 10 – CRUD with Eloquent ORM
